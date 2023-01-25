@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi, I'm Phone Khaing Hein! 👋
+## 🚀 About Me
+I'm a full stack developer...
+
+## 🛠 Skills
+HTML, CSS, Javascript, jQuery, React.js, Vue.js, Anuglar.js, typescript, node.js, express.js, bootstrap, PHP, Laravel, Java, Springboot, Mysql, Postgresql, Mongodb
 
 <!--
 **Rimuru-Tempest-26/Rimuru-Tempest-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
