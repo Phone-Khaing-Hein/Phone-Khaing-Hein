@@ -11,7 +11,7 @@
 
 ### 💻 All **my projects** are available [here.](https://github.com/Rimuru-Tempest-26?tab=repositories)
 
-### 🚀 Check out [my portfolio.](https://rimuru-tempest-26.github.io/Portfolio/)
+### 🚀 Check out [my portfolio.](https://rimuru-tempest-26.github.io/Portfolio_v2/)
 
 ### 📫 Connect with me [LinkedIn](https://www.linkedin.com/in/phone-khaing-hein-759497216/)
 
