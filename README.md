@@ -26,7 +26,7 @@
 </div>
 <img src="./borderseparator.gif" width="100%"/>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Rimuru-Tempest-26&theme=radical" width="49%" alt="streaks graph" />
+  <img src="https://streak-stats.demolab.com?user=Phone-Khaing-Hein&theme=radical" width="49%" alt="streaks graph" />
 </div>
 <br>
 <br>
